@@ -158,8 +158,4 @@ git push origin main
 
 - GitHub: [GeigerJR](https://github.com/GeigerJR)
 
----
-
-## 🏁 License
-
-This project is licensed under the MIT License.
+- https://roadmap.sh/projects/nodejs-service-deployment
